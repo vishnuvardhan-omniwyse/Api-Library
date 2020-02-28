@@ -1,0 +1,3 @@
+rootProject.name='APILibrary'
+include ':app'
+include ':apilibrary'
