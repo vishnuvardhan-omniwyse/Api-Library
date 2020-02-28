@@ -1,4 +1,4 @@
-package com.example.codechallenge.api
+package com.example.apilibrary
 
 import com.example.apilibrary.Event
 import io.reactivex.Observable

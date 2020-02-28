@@ -1,4 +1,4 @@
-package com.example.codechallenge.api
+package com.example.apilibrary
 
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit

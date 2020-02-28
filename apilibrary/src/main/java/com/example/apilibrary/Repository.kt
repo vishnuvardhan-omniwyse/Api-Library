@@ -1,8 +1,5 @@
-package com.example.codechallenge.repository
+package com.example.apilibrary
 
-import com.example.apilibrary.Event
-import com.example.codechallenge.api.ApiService
-import com.example.codechallenge.api.RetrofitClient
 import io.reactivex.Observable
 
 open class Repository(private val retrofitClient: RetrofitClient) : ApiService {
